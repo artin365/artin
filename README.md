@@ -34,7 +34,7 @@
   
   <p align="center">
     <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-      <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://t.me/your-telegram" target="_blank">
       <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
