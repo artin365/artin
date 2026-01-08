@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- هدر سفینه فضایی دارک بلو نئون -->
-  <img src="https://png.pngtree.com/background/20231101/original/pngtree-d-rendering-of-a-futuristic-interior-of-a-dark-blue-spaceship-picture-image_5829991.jpg" alt="Futuristic Spaceship Cockpit" width="100%"/>
+  <img src="" alt="Futuristic Spaceship Cockpit" width="100%"/>
   
   <br><br>
   
