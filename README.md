@@ -11,12 +11,12 @@
   <br><br><br>
   
   <!-- GitHub Stats - تم دارک بلو نئون -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ARTIN&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Artin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=artin365&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="Artin's GitHub Stats" />
   
   <br><br>
   
   <!-- Top Languages - تم مشابه -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTIN&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artin365&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
   
   <br><br><br>
   
