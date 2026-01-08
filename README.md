@@ -1,30 +1,54 @@
-<h1 align="center">Hi 👋, I'm artin</h1>
-<h3 align="center">A passionate back end developer from Iran</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artin365&label=Profile%20views&color=0e75b6&style=flat" alt="artin365" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **suntech**
-
-- 🌱 I’m currently learning **django , css , html , base Javascript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/artin365](https://github.com/artin365)
-
-- 💬 Ask me about **django**
-
-- 📫 How to reach me **artin.vini@gamil.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/artin shahbakhsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artin shahbakhsh" height="30" width="40" /></a>
-<a href="https://fb.com/artin shahbakhsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="artin shahbakhsh" height="30" width="40" /></a>
-<a href="https://instagram.com/artin shahbakhsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artin shahbakhsh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=artin365&show_icons=true&locale=en&layout=compact" alt="artin365" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=artin365&show_icons=true&locale=en" alt="artin365" /></p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="900" alt="Cool Developer GIF"/>
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I'm+Artin!;Full-Stack+Developer;Passionate+about+clean+code+%26+problem-solving" alt="Typing SVG" />
+  
+  <br><br>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Artin&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Artin's GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artin&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <br><br>
+  
+  <!-- Skills Icons - رنگی و زیبا و متفاوت -->
+  <h3 align="left">🚀 Technologies & Tools</h3>
+  
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,docker,git,linux,vscode,postman&perline=6&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,nodejs,html,css&perline=6&theme=dark" />
+  </p>
+  
+  <!-- Social Links -->
+  <h3 align="left">📫 Connect with me</h3>
+  
+  <p align="center">
+    <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://t.me/your-telegram" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  
+  <br>
+  
+  <!-- Visitor Counter - کوچک و خفن -->
+  <img src="https://visit-counter.vercel.app/api/visit?user=Artin&repo=Artin&theme=dark&label=Profile%20Views&countColor=%23FFFFFF" alt="Visitor Counter"/>
+  
+  <br><br>
+  
+  <!-- Quote -->
+  <p align="center">
+    <i>"The best code is the one that works quietly in the background and makes life easier for everyone."</i>
+  </p>
+</div>
